@@ -58,6 +58,11 @@ include_once __DIR__ . "/language/translate.php";
             <input type="password" class="form-control" name="senha" id="senha" placeholder="<?php echo $keyword["placheholder_senha_forms"]; ?>">
         </div>
 
+        <div class="mb-3">
+        <p><?php echo $keyword["senha_forms_confirm"]; ?><span style="color:red; font-size: 11px;"><?php echo $keyword["warning_obrigatorio"]; ?></span></p>
+            <input type="password" class="form-control" name="csenha" id="csenha" placeholder="<?php echo $keyword["placheholder_senha_forms_confirme"]; ?>">
+        </div>
+
         <p><?php echo $keyword["q2_forms"]; ?><span style="color:red; font-size: 11px;"><?php echo $keyword["warning_obrigatorio"]; ?></span></p>
         <div class="form-check form-check-inline">
             <input class="form-check-input" type="radio" name="q2" id="q2" value="Sim">

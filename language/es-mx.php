@@ -17,6 +17,8 @@ $keyword = [
 
     "senha_forms" => "Ingrese su Contraseña de Acceso:",
 
+    "senha_forms_confirm" => "Confirme su contraseña de acceso:",
+
     "data_nascimento_forms" => "¿Cuál es tu fecha de nacimiento?",
 
     "celular_forms" => "¿Cuál es tu número de teléfono?",
@@ -89,6 +91,7 @@ $keyword = [
 
     "placheholder_senha_forms" => "Ingrese una contraseña",
 
+    "placheholder_senha_forms_confirme" => "Reescribe tu contraseña",
    
 ];
 

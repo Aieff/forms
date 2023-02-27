@@ -6,6 +6,7 @@ $nascimento = $_POST['nascimento'];
 $celular = $_POST['celular'];
 $email = $_POST['email'];
 $senha = $_POST['senha'];
+$csenha = $_POST['csenha'];
 $q2 = $_POST['q2'];
 $q3 = $_POST['q3'];
 $q4 = $_POST['q4'];
@@ -20,6 +21,7 @@ VALUES ('$nome',
         '$celular',
         '$email',
         '$senha',
+        '$csenha',
         '$q2',
         '$q3',
         '$q4',
