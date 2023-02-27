@@ -113,35 +113,35 @@ include_once __DIR__ . "/language/translate.php";
                 <div class="form-check">
         <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
         <label class="form-check-label" for="flexCheckDefault">
-            Default checkbox
+        <?php echo $keyword["q7_forms_q1"]; ?>
         </label>
         </div>
 
         <div class="form-check">
         <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
         <label class="form-check-label" for="flexCheckChecked">
-            Checked checkbox
+        <?php echo $keyword["q7_forms_q2"]; ?>
         </label>
         </div>
 
         <div class="form-check">
         <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
         <label class="form-check-label" for="flexCheckChecked">
-            Checked checkbox
+        <?php echo $keyword["q7_forms_q3"]; ?>
         </label>
         </div>
 
         <div class="form-check">
         <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
         <label class="form-check-label" for="flexCheckChecked">
-            Checked checkbox
+        <?php echo $keyword["q7_forms_q4"]; ?>
         </label>
         </div>
 
         <div class="form-check">
         <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
         <label class="form-check-label" for="flexCheckChecked">
-            Checked checkbox
+        <?php echo $keyword["q7_forms_q5"]; ?>
         </label>
         </div>
 

@@ -30,6 +30,18 @@ $keyword = [
     "q5_forms" => "Quais tecnologias você tem conhecimento?",
 
     "q6_forms" => "Conte-nos um pouco sobre você:",
+    
+    "q7_forms" => "Indique quais linguagens de programação você possuí conhecimento",
+
+    "q7_forms_q1" => "JavaScript",
+
+    "q7_forms_q2" => "PHP",
+
+    "q7_forms_q3" => "Java",
+
+    "q7_forms_q4" => "React",
+
+    "q7_forms_q5" => "C",
 
     "warning_obrigatorio" => " * obrigatório",
 
