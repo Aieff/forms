@@ -31,6 +31,18 @@ $keyword = [
 
     "q6_forms" => "Tell us a little about yourself:",
 
+    "q7_forms" => "Indicate which programming languages ​​you have knowledge",
+
+    "q7_forms_q1" => "JavaScript",
+
+    "q7_forms_q2" => "PHP",
+
+    "q7_forms_q3" => "Java",
+
+    "q7_forms_q4" => "React",
+
+    "q7_forms_q5" => "C",
+
     "warning_obrigatorio" => " * required",
 
     "btn_verificar" => " You confirm that you agree with our terms",
